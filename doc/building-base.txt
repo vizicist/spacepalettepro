@@ -1,0 +1,18 @@
+Order of building the base
+--------------------------
+
+- zip-tie the amp and mixer to the other shelf (the upper one)
+
+- screw power strip into the lower shelf
+
+- zip-tie the minisub to the lower shelf
+
+- build monitor assembly
+
+- lay monitor on its back, and attach both sides
+
+- attach base bottom
+
+- attach lower shelf (with minisub)
+
+- attach upper shelf (with amp/mixer)

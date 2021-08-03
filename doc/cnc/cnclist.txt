@@ -1,0 +1,31 @@
+CNC data for the wood pieces, note the number of each and the varying thicknesses.
+----------------------------------------------------------------------------------
+
+1 - 1/4"	PalPro_Layer1_face.dxf
+1 - 1/8"	PalPro_Layer2.dxf
+1 - 1/8"	PalPro_Layer3.dxf
+1 - 1/8"	PalPro_Layer4.dxf
+1 - 1/2"	PalPro_Layer5.dxf
+1 - 1/2"	PalPro_Layer6.dxf
+1 - 1/4"	PalPro_Layer7_back.dxf
+
+1 - 1/4"	PalPro_MonLayer1_face.dxf
+2 - 1/2"	PalPro_MonLayer2_3_bottom.dxf
+4 - 1/2"	PalPro_MonLayer2_3_leftright.dxf
+2 - 1/2"	PalPro_MonLayer2_3_top.dxf
+1 - 1/2"	PalPro_MonLayer4.dxf
+1 - 1/2"	PalPro_MonLayer5.dxf
+1 - 1/4"	PalPro_MonLayer6_back.dxf
+
+1 - 1/2"	PalPro_BaseBack.dxf
+1 - 1/2"	PalPro_BaseBackBottom.dxf
+1 - 1/2"	PalPro_BaseBottom.dxf
+1 - 1/4"	PalPro_BaseFront.dxf
+1 - 1/2"	PalPro_BaseHeadphones.dxf
+1 - 1/2"	PalPro_BaseKeyboard.dxf
+1 - 1/4"	PalPro_BaseMidShelf.dxf
+1 - 1/4"	PalPro_BaseMonKeyShelf.dxf
+2 - 1/2"	PalPro_BaseSide.dxf
+2 - 1/4"	PalPro_BaseSpeaker.dxf
+1 - 1/4"	PalPro_BaseTopShelf.dxf
+
