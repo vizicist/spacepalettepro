@@ -34,9 +34,35 @@ of the monitor (SPP_MonLayer1_face.dxf), you might consider using
 
 <h1>Put together the controller</h1>
 Here are some <a href="https://photos.app.goo.gl/FhGk2NVdA6P4zqocA">pictures showing the controller build process.</a>
+
 <h1>Put together the monitor</h1>
 Here are some <a href="https://photos.app.goo.gl/Fwk42kaN5rRdKyEm8">pictures showing the monitor build process.</a>
+
 <h1>Put together the base</h1>
 Here are some <a href="https://photos.app.goo.gl/kpxXuAgzLdUquVTU9">pictures showing the base build process.</a>
-<h1>Install commercial software</h1>
-<h1>Install open-source software</h1>
+
+<h1>Setup Windows and install software</h1>
+
+1) Change computer name to palette{serialnum}
+2) Reboot, put in USB wifi, connect to network
+3) Use Microsoft account to log in, install Windows udpates
+4) Install Chrome, enable google remote desktop (requires Google account)
+5) Install LoopBe30 from https://www.nerds.de/en/order.html 
+    - Use LoopBe30 tray to expand "ports after reboot" to 16
+    - Turn off "Enable Shortcut Detection"
+    - Reboot
+6) Install Palette version 5.1
+7) Install Omnisphere in c:\users\public\documents\vstplugins64
+8) Install Battery 4 in c:\users\public\documents\vstplugins64
+9) Install Battery 4 Factory Library
+10) Install Plogue Bidule:
+    - In Edit->Preferences->VST add folder c:\users\public\documents\vstplugins64
+    - In Tools->Osc Server enable OSC 
+    - Read %LOCALAPPDATA%\Palette\config\palette.bidule
+    - Make sure Battery 4 instances can send audio, fix audio device if necessary
+    - Authorize Omnisphere
+    - Restart Bidule, verify that Omnisphere is authorized
+11) Install Resolume 7 (Avenue)  
+    - In Avenue->Preferences->Video, add C:\Program Files\Palette\ffgl
+    - In Avenue->Preferences->OSC enable OSC Input on port 7000
+12) Install SenselApp
