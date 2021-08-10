@@ -25,9 +25,11 @@ be enabled and point to the places (mostly Amazon) where you can buy each piece.
 A list of the wood pieces with pictures of each can be found in <a href="../dxf/list.md"><code>dxf/list.md</code></a>.
 The <a href="../dxf/list.txt"><code>dxf/list.txt</code></a> file is a more concise list
 that shows for each piece the quantity, thickness, and DXF filename.
-Most of these pieces should be baltic birch, but some of them can be another material.
-For example, some CNC services may not support cutting 1/8" baltic birch, and
-so you can use another material for those.
+Most of these pieces should be baltic birch, but some of them can be another material, particularly
+the inner layers of the monitor and controller.  For example, MDF is an alternative to baltic birch at <a href="https://sendcutsend.com">sendcutsend.com</a>, a mail-order CNC service.
+In the <a href="parts.pdf">parts list</a>,
+the prices are taken from <a href="https://sendcutsend.com">sendcutsend.com</a>,
+using MDF for the inner layers.
 For the top layer of the controller (SPP_Layer1_face.dxf) and the top layer
 of the monitor (SPP_MonLayer1_face.dxf), you might consider using
 <a href="https://www.buyappleply.com/">ApplePly</a> for a nicer wood appearance.
@@ -66,3 +68,5 @@ Here are some <a href="https://photos.app.goo.gl/kpxXuAgzLdUquVTU9">pictures sho
     - In Avenue->Preferences->Video, add C:\Program Files\Palette\ffgl
     - In Avenue->Preferences->OSC enable OSC Input on port 7000
 12) Install SenselApp
+13) Install Git from https://gitforwindows.org
+    - adjust PATH to add c:\program files\git\usr\bin

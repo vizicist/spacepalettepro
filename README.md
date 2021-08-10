@@ -17,9 +17,12 @@ This repo contains all the information needed to building a complete instrument:
 <li>Instructions for installing and configuring all the software
 </ul>
 <p>
-The cost of all the raw materials for an uncompromised and complete instrument
-including the computer is a little above $7K.
-The cost of just the controller (which includes 4 Morphs and a touchscreen) along with the necessary commercial software is much less, around $3K.
+The cost of all the <a href="doc/parts.pdf">raw materials</a> for an uncompromised and complete instrument
+including the computer is around $8K.
+This is no-compromise single-item materials pricing - cost-reductions
+and other adjustments (e.g. if you have some of the pieces already)
+are certainly possible.
+The cost of just the controller (4 Morphs, a touchscreen, misc. parts, commercial software, and wood) is around $3K.
 <p>
 <a href="doc/building.md">Full instructions for building it can be found in this document</a>.
 <p>
