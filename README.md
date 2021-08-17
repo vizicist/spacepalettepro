@@ -7,7 +7,7 @@ a visual music instrument on which you play music and graphics simultaneously by
 pressure sensitive pads.  Here are some <a href="https://photos.app.goo.gl/1x5BrCuc9yP6Z52XA">photos and videos</a> from a recent event where it was enjoyed.  Here is a <a href="https://youtu.be/HDtxEyCI_zc?t=362">improvised performance</a> using it.
 <p>
 <h1>Building your own Space Palette Pro</h1>
-This repo contains all the information needed to building a complete instrument:
+This repo contains all the information needed to build a complete instrument:
 <p>
 <ul>
 <li>DXF data for cutting the wood pieces of the base, monitor, and controller.
