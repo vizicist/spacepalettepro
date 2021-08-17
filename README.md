@@ -19,11 +19,22 @@ This repo contains all the information needed to build a complete instrument:
 <p>
 The cost of all the <a href="doc/parts.pdf">raw materials</a> for an uncompromised and complete instrument
 including the computer is around $8K.
-This is no-compromise single-item materials pricing - cost-reductions
-and other adjustments (e.g. if you have some of the pieces already)
-are certainly possible.
-The cost of just the controller (4 Morphs, a touchscreen, misc. parts, commercial software, and wood) is around $3K.
+This is no-compromise single-item pricing of materials - cost-reductions
+and other adjustments are certainly possible.
+For example, the $630 speaker system is unnecessary
+if you already have an amplifier and speakers.
+Four sets of headphones and a headphone amp may not be needed either.
+You might have access to a large CNC machine so you can avoid
+paying someone else to CNC all the wood.
 <p>
-<a href="doc/building.md">Full instructions for building it can be found in this document</a>.
+The cost of the controller by itself (including 4 Morphs,
+a touchscreen, misc. parts, commercial software, and wood) is around $3K.
+The controller alone would be appropriate if you didn't want the base
+or monitor enclosures, and you wanted to use an existing
+(sufficiently powerful) computer and output monitor.
+<p>
+<h1>Documentation</h1>
+<a href="doc/README.md">All documentation and important links can be found here.</a>
+<p>
 <p>
 Any questions, email <a href="mailto:me@timthompson.com">me@timthompson.com</a>
