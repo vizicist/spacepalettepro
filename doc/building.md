@@ -57,7 +57,7 @@ These steps are designed for taking a new Windows 10 computer and configuring ev
     - Enable google remote desktop (requires Google account)
     - This is for remote installation and monitoring
 5) Install LoopBe30 from https://www.nerds.de/en/order.html 
-    - Use LoopBe30 tray to expand "ports after reboot" to 16
+    - Use LoopBe30 tray item to expand "ports after reboot" to 16
     - Turn off "Enable Shortcut Detection"
     - Reboot
 6) Install Palette version 5.2
@@ -67,7 +67,7 @@ These steps are designed for taking a new Windows 10 computer and configuring ev
 10) Install Plogue Bidule:
     - In Edit->Preferences->VST add folder c:\users\public\documents\vstplugins64
     - In Tools->Osc Server enable OSC 
-    - Read %LOCALAPPDATA%\Palette\config\palette.bidule
+    - Open %LOCALAPPDATA%\Palette\config\palette.bidule
     - Make sure Battery 4 instances can send audio, fix audio device if necessary
     - Authorize Omnisphere 2
     - Restart Bidule, verify that Omnisphere is authorized
@@ -76,11 +76,24 @@ These steps are designed for taking a new Windows 10 computer and configuring ev
     - In Avenue->Preferences->OSC enable OSC Input on port 7000
     - Quit and restart Resolume
     - Verify that Palette ffgl plugin is seen in Sources under Generators
-    - Read %LOCALAPPDATA%\Palette\config\PaletteABCD.avc, then Quit
+    - In Composition->Open, open %LOCALAPPDATA%\Palette\config\PaletteABCD.avc, then Quit
+    - In Output->Fullscreen, set Display 3 (the Palette's main monitor) to fullscreen
 12) Install SenselApp
     - Verify that all 4 Morphs are seen
     - Make sure their serial numbers are in %LOCALAPPDATA%\Palette\config\morphs.json
 13) Install Git from https://gitforwindows.org
+    - Accept all the defaults
     - adjust PATH to add c:\program files\git\usr\bin
-14) Run everything
+    - Optional: install GitHub Desktop from https://desktop.github.com
+14) Use Windows Settings->Display to adjust windows
+    - Adjust touchscreen monitor - Resolution = 800x1280, Orientation = Portrait (flipped)
+    - Put console monitor on the right, touchscreen monitor in the middle,
+      and the main (oval) monitor on the left.
+15) In the Windows Control Panel (the old one)
+    - change the "View by" to "Small icons"
+    - In "Tablet PC Settings", select "Setup..." and then "Touch Input",
+      selecting the touchscreen monitor as the touch screen
+    - If you don't see "Tablet PC Settings", it means the touchscreen monitor
+      isn't connected,
+16) Run everything
     - Execute palettestartall
