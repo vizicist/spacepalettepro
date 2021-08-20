@@ -60,7 +60,8 @@ These steps are designed for taking a new Windows 10 computer and configuring ev
     - Use LoopBe30 tray item to expand "ports after reboot" to 16
     - Turn off "Enable Shortcut Detection"
     - Reboot
-6) Install Palette version 5.2
+6) Install Palette
+    - The latest version in https://github.com/vizicist/palette/tree/main/release
 7) Install Omnisphere 2 in c:\users\public\documents\vstplugins64
 8) Install Battery 4 in c:\users\public\documents\vstplugins64
 9) Install Battery 4 Factory Library
