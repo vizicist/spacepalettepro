@@ -34,17 +34,14 @@ For the top layer of the controller (SPP_Layer1_face.dxf) and the top layer
 of the monitor (SPP_MonLayer1_face.dxf), you might consider using
 <a href="https://www.buyappleply.com/">ApplePly</a> for a nicer wood appearance.
 
-<h1>Put together the controller</h1>
-Here are some <a href="https://photos.app.goo.gl/FhGk2NVdA6P4zqocA">pictures showing the controller build process.</a>
-More details are needed here.
+<h1>Build the controller</h1>
+Here are the <a href="building_controller.md">instructions for building the controller</a>.
 
-<h1>Put together the monitor</h1>
-Here are some <a href="https://photos.app.goo.gl/Fwk42kaN5rRdKyEm8">pictures showing the monitor build process.</a>
-More details are needed here.
+<h1>Build the monitor</h1>
+Here are the <a href="building_monitor.md">instructions for building the monitor</a>.
 
-<h1>Put together the base</h1>
-Here are some <a href="https://photos.app.goo.gl/kpxXuAgzLdUquVTU9">pictures showing the base build process.</a>
-More details are needed here.
+<h1>Build the base</h1>
+Here are the <a href="building_base.md">instructions for building the base</a>.
 
 <h1>Setup Windows and install software</h1>
 
