@@ -1,6 +1,6 @@
 <h1>Building the Controller of the Space Palette Pro</h1>
 These are the steps to building just the controller,
-assuming you've collected all the necessary parts.
+assuming you've collected all the necessary parts as specifid in the <a href="parts.pdf">parts list</a>.
 <p>
 <hr><hr>
 Here's all the parts laid out
