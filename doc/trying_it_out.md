@@ -1,11 +1,26 @@
 <h1>Trying out the Space Palette Pro</h1>
 
-<h2>Satisfy the requirements</h2>
-If you have installed and setup the necessary software, and have satisfied these minimum hardware requirements listed below:
+This page describes how to try out the Space Palette Pro with the minimal configuration
+that still permits all the features to be used.
+
+<h2>Hardware requirements</h2>
 <ul>
-<li>Computer
-<li>At least one Sensel Morph, ideally four
-<li>If you have four Morphs, make sure to use a USB hub that can see all four.  The one in the parts list is known to work.
+<li>A recent decent Windows 10 machine with 16GB and one external monitor.
+<li>One Sensel Morph (though ideally four)
 </ul>
 
-<h2>TBD</h2>
+<h2>Software requirements</h2>
+<ul>
+<li>Resolume Avenue 7
+<li>Spectrasonics Omnisphere 2
+<li>Battery 4
+<li>Plogue Bidule
+<li>LoopBe30
+</ul>
+
+<h2>Build the software</h2>
+
+These instructions for <a href="building_software">building the software</a> describe out to install and configure all the software.
+
+<h2>Try it out</h2>
+In the Windows

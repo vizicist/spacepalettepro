@@ -8,24 +8,32 @@ pressure sensitive pads.  Here are some <a href="https://photos.app.goo.gl/1x5Br
 This repo contains:
 <p>
 <ul>
-<li>A list of everything you need: electronics, hardware, software
+<li>A list of everything you need: electronics, software, hardware (all the way down to the bolts)
 <li>The open-source Palette software (from <a href="https://github.com/vizicist/palette">github.com/vizicist/palette</a>)
 <li>DXF data for CNC cutting the pieces of the base, monitor, and controller.
 <li>Instructions for putting it all together.
 </ul>
+
 <p>
+While this documentation and the Palette software are open source, the Space Palette Pro does
+make use of specific commercial software that you must have in order to run it at all.
+Some people may already have some of that software, but it's unlikely that anyone will
+have all of it, so you'll most likely have to spend some money on software, if you want to try it out.
+<p>
+Questions welcome, you can either submit an issue or email me@timthompson.com (aka <a href="https://nosuchtim.com">nosuchtim</a>)
+<p>
+
 <h2>Trying it out</h2>
 <p>
-If you satisfy the minimum software and hardware requirements,
-you can follow these instructions for <a href="doc/trying_it_out.md">trying it out</a>.
-In some cases that may be all you want, but a key aspect of the Space Palette Pro is the ergonomic placement of the four Morphs and touchscreen, so if you like what you can do with the software, you should definitely consider building at least the controller to get the best experience.
+The minimum software and hardware requirements can be found in these instructions for
+<a href="doc/trying_it_out.md">trying it out</a>.
 
 <h2>Building just the controller</h2>
 <p>
-If you've already tried it out with four Sensel Morphs, you already have most of the things
-needed for the controller.  All you need in addition are the wood pieces, USB hubs, the 10.1" touchscreen, and cables.
-<a href="doc/building_controller.md">Building the controller</a> by itself gives you something that
-would work well for doing performances.
+Here are the instructsions for <a href="doc/building_controller.md">building just the controller</a>,
+which by itself would work well in many situations, for example doing performances.
+If you've already tried out the software with four Sensel Morphs, you already have many of the things
+needed for the controller.  In addition to 4 Morphs, you need the wood pieces, 2 USB hubs, the 10.1" touchscreen, and cables.
 
 <h2>Building a complete and standalone Space Palette Pro</h2>
 <p>
