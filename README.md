@@ -10,15 +10,15 @@ This repo contains:
 <ul>
 <li>A list of everything you need: electronics, software, hardware (all the way down to the bolts)
 <li>The open-source Palette software (from <a href="https://github.com/vizicist/palette">github.com/vizicist/palette</a>)
-<li>DXF data for CNC cutting the pieces of the base, monitor, and controller.
+<li>DXF data for CNC cutting the pieces of the three enclosures: controller, base, and monitor.
 <li>Instructions for putting it all together.
 </ul>
 
 <p>
-While this documentation and the Palette software are open source, the Space Palette Pro does
-make use of specific commercial software that you must have in order to run it at all.
+While this documentation and the Palette software are open source, the Space Palette Pro
+makes use of specific commercial software that you must have in order to run it at all.
 Some people may already have some of that software, but it's unlikely that anyone will
-have all of it, so you'll most likely have to spend some money on software, if you want to try it out.
+have all of it, so you'll most likely have to spend some money on software, if you want to try anything out.
 <p>
 Questions welcome, you can either submit an issue or email me@timthompson.com (aka <a href="https://nosuchtim.com">nosuchtim</a>)
 <p>

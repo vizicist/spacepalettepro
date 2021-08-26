@@ -20,7 +20,7 @@ that still permits all the features to be used.
 
 <h2>Build the software</h2>
 
-These instructions for <a href="building_software">building the software</a> describe how to install and configure all the software.
+These instructions for <a href="building_software.md">building the software</a> describe how to install and configure all the software.
 
 <h2>Try it out</h2>
 
