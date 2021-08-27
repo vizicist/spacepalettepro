@@ -9,27 +9,30 @@ Screw 5 furniture pads into the base bottom.
 <p>
 <hr><hr>
 Use 1/4-20 1" bolts to attache the L-angle brackets to both of the side panels.
-<br><img width=400 src="../images/building_base/IMG_6322.jpg">
-<br><img width=400 src="../images/building_base/IMG_6323.jpg">
-<br><img width=400 src="../images/building_base/IMG_6324.jpg">
+Note carefully which holes in the brackets are used for the bolts.
+In particular, the middle shelf bracket is pushed a little more toward one side (the front),
+compared to the top and bottom brackets.
+Note make sure that the orientation of the two side panels is reversed when you add the brackets.
+<br><img width=400 src="../images/building_base/IMG_6579.jpg">
+<br><img width=400 src="../images/building_base/IMG_6583.jpg">
 <p>
 <hr><hr>
 Attach the mid and top shelves to one of the side panels.
-<br><img width=400 src="../images/building_base/IMG_6325.jpg">
-<br><img width=400 src="../images/building_base/IMG_6326.jpg">
-<br><img width=400 src="../images/building_base/IMG_6327.jpg">
+Again, note how the middle shelf is pushed toward one side (which is the front of the base),
+so that it doesn't collide with the vertical bracket on the other (back) side.
+Assuming the shelves are 1/4" thick, you can use 3/4" bolts rather than 1".
+<br><img width=400 src="../images/building_base/IMG_6582.jpg">
 <p>
 <hr><hr>
 Attach the other side panel to the shelves.
-<br><img width=400 src="../images/building_base/IMG_6330.jpg">
-<br><img width=400 src="../images/building_base/IMG_6331.jpg">
-<br><img width=400 src="../images/building_base/IMG_6332.jpg">
-<br><img width=400 src="../images/building_base/IMG_6333.jpg">
 <br><img width=400 src="../images/building_base/IMG_6334.jpg">
+<br><img width=400 src="../images/building_base/IMG_6384.jpg">
 <p>
 <hr><hr>
 Attach the bottom of the base, with the bolt heads pointing toward the floor.
-<br><img width=400 src="../images/building_base/IMG_6335.jpg">
+The bottom is not symmetric, so make sure that the front of the base bottom has a 1/4" gap
+(as shown in the second picture)
+and the back of the base bottom has a 1/2" gap (as shown in the third picture)
 <br><img width=400 src="../images/building_base/IMG_6336.jpg">
 <br><img width=400 src="../images/building_base/IMG_6337.jpg">
 <br><img width=400 src="../images/building_base/IMG_6338.jpg">
