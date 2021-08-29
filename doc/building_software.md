@@ -20,7 +20,7 @@ These are the steps to install and configure all the necessary software.
 <li>Install Plogue Bidule:
     <ul>
     <li>In Edit->Preferences->VST add folder c:\users\public\documents\vstplugins64
-    <li>In Tools->Osc Server enable OSC 
+    <li>In Tools->Osc Server, enable OSC 
     <li>Open %LOCALAPPDATA%\Palette\config\palette.bidule
     <li>Make sure Battery 4 instances can send audio, fix audio device if necessary
     <li>Authorize Omnisphere 2
@@ -29,7 +29,7 @@ These are the steps to install and configure all the necessary software.
 <li>Install Resolume 7 (Avenue)  
     <ul>
     <li>In Avenue->Preferences->Video, add C:\Program Files\Palette\ffgl
-    <li>In Avenue->Preferences->OSC enable OSC Input on port 7000
+    <li>In Avenue->Preferences->OSC, enable OSC Input on port 7000
     <li>Quit and restart Resolume
     <li>Verify that Palette plugin is seen in Sources under Generators
     <li>In Composition->Open, open %LOCALAPPDATA%\Palette\config\PaletteABCD.avc, then Quit

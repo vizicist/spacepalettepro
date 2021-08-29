@@ -18,15 +18,20 @@ This repo contains:
 While this documentation and the Palette software are open source, the Space Palette Pro
 makes use of specific commercial software that you must have in order to run it at all.
 Some people may already have some of that software, but it's unlikely that anyone will
-have all of it, so you'll most likely have to spend some money on software, if you want to try anything out.
+have all of it, so you'll most likely have to spend some money on software, if you want to run a full-fledged Space Palette Pro.
 <p>
 Questions welcome, you can either submit an issue or email me@timthompson.com (aka <a href="https://nosuchtim.com">nosuchtim</a>)
 <p>
 
-<h2>Trying it out</h2>
+<h2>Using a single Morph to do visuals with Resolume</h2>
 <p>
-The minimum software and hardware requirements can be found in these instructions for
-<a href="doc/trying_it_out.md">trying it out</a>.
+If you have Windows 10 and a Sensel Morph, you can easily run
+the Palette software to do visuals (only) with Resolume.
+It will even work with the demo version of Resolume Avenue or Arena.
+Here are the instructions for
+<a href="doc/using_single_morph.md">using the Palette software with a single Morph</a>.
+Configuring the music aspects of the Space Palette Pro is much more involved,
+see the instructions for <a href="doc/building.md">building a complete Space Palette Pro</a>.
 
 <h2>Building just the controller</h2>
 <p>
