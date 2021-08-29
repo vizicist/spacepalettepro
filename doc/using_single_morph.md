@@ -21,21 +21,26 @@ Here are the steps to do that.
     <li>Verify that Palette plugin is seen in Sources under Generators
     <li>In Composition->Open, open %LOCALAPPDATA%\Palette\config\PaletteABCD.avc, then Quit
     </ul>
-<li>Install and start the Sensel App
+<li>Plug in the Morph
     <ul>
-    <li>Plug in the Morph.
+    <li>Install the Sensel App, if you haven't already.
     <li>Make sure that the Morph is seen by the Sensel App, and its firmware is up-to-date.
     </ul>
+</ul>
+<p>
+You've completed the one-time steps.  To use it:
+<p>
+<ul>
 <li>In the Windows menu, invoke Palette->Start Palette (small GUI).
     <ul>
-    <li>Note: the Palette Config window may be hidden behind Resolume when it first starts.
+    <li>Note: the Palette Config window might be hidden behind Resolume when it first starts.
+    <li>If a Palette Config window doesn't appear and isn't hidden behind other windows, you can find logfiles in %LOCALAPPDATA%\Palette\logs that may help uncover the problem.
     </ul>
 <li>In the Palette Config window, select one of the presets.
-<li>Finger paint on the Morph.  You should see things appear in Resolume.
+<li>Finger paint on the Morph.  You should see visuals appear in Resolume.
 <li>The four corners of the single Morph can be used to switch
 between four virtual pads, simulating the four Morphs in the Space Palette Pro.  For example, touching the lower-left corner of
 the Morph will cause it to act
 like the lower-left Morph in the real Space Palette Pro.
 You can use the corners to switch at anytime.
 </ul>
-<p>

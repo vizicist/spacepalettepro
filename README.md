@@ -23,22 +23,21 @@ have all of it, so you'll most likely have to spend some money on software, if y
 Questions welcome, you can either submit an issue or email me@timthompson.com (aka <a href="https://nosuchtim.com">nosuchtim</a>)
 <p>
 
-<h2>Using a single Morph to do visuals with Resolume</h2>
+<h2>Using a single Morph as a visual instrument with Resolume</h2>
 <p>
 If you have Windows 10 and a Sensel Morph, you can easily run
-the Palette software to do visuals (only) with Resolume.
+the Palette software as a visual instrument with Resolume.
 It will even work with the demo version of Resolume Avenue or Arena.
 Here are the instructions for
 <a href="doc/using_single_morph.md">using the Palette software with a single Morph</a>.
-Configuring the music aspects of the Space Palette Pro is much more involved,
-see the instructions for <a href="doc/building.md">building a complete Space Palette Pro</a>.
+Configuring the musical aspects of the Space Palette Pro is much more involved,
+see the instructions below for that.
 
 <h2>Building just the controller</h2>
 <p>
-Here are the instructsions for <a href="doc/building_controller.md">building just the controller</a>,
+Here are the instructions for <a href="doc/building_controller.md">building just the controller</a>,
 which by itself would work well in many situations, for example doing performances.
-If you've already tried out the software with four Sensel Morphs, you already have many of the things
-needed for the controller.  In addition to 4 Morphs, you need the wood pieces, 2 USB hubs, the 10.1" touchscreen, and cables.
+In addition to 4 Morphs, you need the wood pieces, 2 USB hubs, the 10.1" touchscreen, and cables.
 
 <h2>Building a complete and standalone Space Palette Pro</h2>
 <p>
