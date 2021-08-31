@@ -28,19 +28,20 @@ Here are the steps to do that.
     </ul>
 </ul>
 <p>
-You've completed the one-time steps.  To use it:
+You've completed the installation steps.  Every time you want to use it:
 <p>
 <ul>
 <li>In the Windows menu, invoke Palette->Start Palette (small GUI).
     <ul>
-    <li>Note: the Palette Config window might be hidden behind Resolume when it first starts.
-    <li>If a Palette Config window doesn't appear and isn't hidden behind other windows, you can find logfiles in %LOCALAPPDATA%\Palette\logs that may help uncover the problem.
+    <li>Note: the Palette Control window might be hidden behind Resolume.
+    <li>If a Palette Control window doesn't appear and isn't hidden behind other windows, you can find logfiles in %LOCALAPPDATA%\Palette\logs that may help uncover the problem.
     </ul>
-<li>In the Palette Config window, select one of the presets.
+<li>In the Palette Control window, select one of the presets.
 <li>Finger paint on the Morph.  You should see visuals appear in Resolume.
 <li>The four corners of the single Morph can be used to switch
 between four virtual pads, simulating the four Morphs in the Space Palette Pro.  For example, touching the lower-left corner of
 the Morph will cause it to act
 like the lower-left Morph in the real Space Palette Pro.
 You can use the corners to switch at anytime.
+<li>To stop both Resolume and the Palette engine (which is running in the background), use Palette->Stop Palette in the Windows menu.
 </ul>
