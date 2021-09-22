@@ -66,7 +66,7 @@ Using the small 8-32 bolts, attach the dual fans to the base back bottom.
 <br><img width=400 src="../images/building_base/IMG_6349.jpg">
 <p>
 <hr><hr>
-Use velcro for the keyboard, and bolt the screen into the monitor keyboard board.
+Use velcro to attach the keyboard to the monitor/keyboard board.  Use a 5/8" 1/4-20 bolt, the barrel nut, and the small swivel arm with ballhead to attach the screen to the same board.
 <br><img width=400 src="../images/building_base/IMG_6350.jpg">
 <br><img width=400 src="../images/building_base/IMG_6352.jpg">
 <br><img width=400 src="../images/building_base/IMG_6353.jpg">
