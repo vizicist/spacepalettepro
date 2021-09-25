@@ -1,12 +1,4 @@
 <h1>Building the Controller of the Space Palette Pro</h1>
-These are the steps to building just the controller,
-assuming you've collected all the necessary parts as specifid in the <a href="parts.pdf">parts list</a>.
-<p>
-<hr><hr>
-Here's all the parts laid out
-<br><img width=400 src="../images/building_controller/IMG_6261.jpg">
-<p>
-<hr><hr>
 Put the face layer (the top and visible part of the controller) face down, with the bronze 1.57" connector bolts inserted.
 <br><img width=400 src="../images/building_controller/IMG_6271.jpg">
 <p>
@@ -24,12 +16,12 @@ Put Layer3 on.  Note the small differences between Layer2 and Layer3.
 <p>
 <hr><hr>
 Put the 4 Sensel Morphs in place.
-NOTE: these pictures don't show it, but you should attach the four right-angle mini USB cables to the four Morphs.
+NOTE: These pictures don't show it, but you should attach the four right-angle mini USB cables to the four Morphs.
 <br><img width=400 src="../images/building_controller/IMG_6280.jpg">
 <p>
 <hr><hr>
 Put Layer4 on.  Note how it overlaps the Morphs, keeping them in place.
-NOTE: this picture doesn't show the cables but they should be there.
+NOTE: this picture doesn't show the cables that should already be connected to the Morphs.
 <br><img width=400 src="../images/building_controller/IMG_6283.jpg">
 <br><img width=400 src="../images/building_controller/IMG_6282.jpg">
 <p>
