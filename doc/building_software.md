@@ -33,7 +33,7 @@ These are the steps to install and configure all the necessary software.
     <li>Quit and restart Resolume
     <li>Verify that Palette plugin is seen in Sources under Generators
     <li>In Composition->Open, open %LOCALAPPDATA%\Palette\config\PaletteABCD.avc, then Quit
-    <li>In Output->Fullscreen, set Display 3 (the Palette's main monitor) to fullscreen
+    <li>In Output->Fullscreen, set the Palette's main monitor to fullscreen
     </ul>
 <li>Install SenselApp
     <ul>
