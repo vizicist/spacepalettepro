@@ -1,5 +1,6 @@
 <h1>Building the Software of the Space Palette Pro</h1>
-These are the steps to install and configure all the necessary software.
+These are the steps to install and configure all the necessary software for a full-blown (visuals and sound) Space Palette Pro.  This procedure is much more complex than it is for a visuals-only Space Palette Pro.  If you only want to do visuals, the much simpler installation procedure is at
+<a href="https://github.com/vizicist/palette/blob/main/docs/using_resolume.md">https://github.com/vizicist/palette/blob/main/docs/using_resolume.md</a>
 <p>
 
 <ol>
