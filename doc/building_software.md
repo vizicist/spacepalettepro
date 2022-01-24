@@ -15,6 +15,7 @@ These are the steps to install and configure all the necessary software for a fu
     <li>The latest version in
     <a href="https://github.com/vizicist/palette/tree/main/release">https://github.com/vizicist/palette/tree/main/release</a>
     </ul>
+<li>Create (if it doesn't exist already) this directory: c:\users\public\documents\vstplugins64
 <li>Install Omnisphere 2 in c:\users\public\documents\vstplugins64
 <li>Install Battery 4 in c:\users\public\documents\vstplugins64
 <li>Install Battery 4 Factory Library
