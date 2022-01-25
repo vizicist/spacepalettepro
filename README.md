@@ -23,17 +23,17 @@ have all of it, so you'll most likely have to spend some money on software, if y
 Questions welcome, you can either submit an issue or email me@timthompson.com (aka <a href="https://nosuchtim.com">nosuchtim</a>)
 <p>
 
-<h2>Using a single Sensel Morph or Erae Touch as a visual instrument with Resolume</h2>
+<h2>Getting started with a single Morph as a visuals-only instrument</h2>
 <p>
-If you have Windows 10 and either a Sensel Morph or Erae Touch,
-you can easily run the Palette software as a visual instrument with Resolume.
+If you have Windows 10 and a Sensel Morph,
+you can easily run the Palette software
+as a visuals-only instrument with Resolume 7,
+without building the complete Space Palette Pro.
 It will even work with the demo version of Resolume Avenue or Arena.
-Here are the instructions for
-<a href="doc/using_single_morph.md">using the Palette software with a single Sensel Morph or Erae Touch</a>.
-Configuring the musical aspects of the Space Palette Pro is much more involved,
-see the instructions below for that.
+Here are the instructions for that:
+<a href="https://github.com/vizicist/palette/blob/main/doc/using_resolume.md">https://github.com/vizicist/spacepalettepro/blob/main/doc/using_resolume.md</a>
 
-<h2>Building just the controller</h2>
+<h2>Building just the Space Palette Pro controller</h2>
 <p>
 Here are the instructions for <a href="doc/building_controller.md">building just the controller</a>,
 which by itself would work well in many situations, for example doing performances.
