@@ -30,8 +30,8 @@ you can easily run the Palette software
 as a visuals-only instrument with Resolume 7,
 without building the complete Space Palette Pro.
 It will even work with the demo version of Resolume Avenue or Arena.
-Here are the instructions for that:
-<a href="https://github.com/vizicist/palette/blob/main/docs/using_resolume.md">https://github.com/vizicist/palette/blob/main/docs/using_resolume.md</a>
+Here are the instructions for
+<a href="https://github.com/vizicist/palette/blob/main/docs/using_resolume.md">using a single Morph as a visuals-only instrument</a>.
 
 <h2>Building just the Space Palette Pro controller</h2>
 <p>
