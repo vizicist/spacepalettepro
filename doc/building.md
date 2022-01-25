@@ -21,10 +21,6 @@ Each of those steps is described below.
 Here are the instructions for <a href="building_software.md">installing and setting up the software</a>.
 
 <hr>
-<h1>Try it out</h1>
-Make sure you have all the parts and software configured correctly by <a href="trying_it_out.md">trying it out</a>.
-
-<hr>
 <h1>Buy the parts</h1>
 The <a href="parts.ods"><code>parts.ods</code></a> file is a
 spreadsheet listing all of the non-wood parts needed.
