@@ -21,6 +21,7 @@ Note that the orientation of the two side panels is reversed when you add the br
 Attach the mid and top shelves to one of the side panels.
 Again, note how the middle shelf is pushed toward one side (which is the front of the base),
 so that it doesn't collide with the vertical bracket on the other (back) side.
+Also note the orientation of the holes in the top shelf.
 Assuming the shelves are 1/4" thick, you can use 3/4" bolts rather than 1".
 <br><img width=400 src="../images/building_base/IMG_6582.jpg">
 <p>
