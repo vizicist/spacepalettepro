@@ -31,7 +31,7 @@ as a visuals-only instrument with Resolume 7,
 without building the complete Space Palette Pro.
 It will even work with the demo version of Resolume Avenue or Arena.
 Here are the instructions for that:
-<a href="https://github.com/vizicist/palette/blob/main/doc/using_resolume.md">https://github.com/vizicist/spacepalettepro/blob/main/doc/using_resolume.md</a>
+<a href="https://github.com/vizicist/palette/blob/main/docs/using_resolume.md">https://github.com/vizicist/palette/blob/main/docs/using_resolume.md</a>
 
 <h2>Building just the Space Palette Pro controller</h2>
 <p>
