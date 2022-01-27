@@ -1,6 +1,6 @@
 <h1>Building the Software of the Space Palette Pro</h1>
 These are the steps to install and configure all the necessary software for a full-blown (visuals and sound) Space Palette Pro.  This procedure is much more complex than it is for a visuals-only Space Palette Pro.  If you only want to do visuals, the much simpler installation procedure is at
-<a href="https://github.com/vizicist/palette/blob/main/docs/using_resolume.md">https://github.com/vizicist/palette/blob/main/docs/using_resolume.md</a>
+<a href="https://github.com/vizicist/palette/blob/main/doc/using_resolume.md">https://github.com/vizicist/palette/blob/main/doc/using_resolume.md</a>
 <p>
 
 <ol>
@@ -75,4 +75,4 @@ If you are using a touchscreen monitor for the preset selector GUI, then do thes
 </ol>
 
 You should now be able to use the Palette as described in
-<a href="https://github.com/vizicist/palette/blob/main/docs/starting_and_using.md">https://github.com/vizicist/palette/blob/main/docs/starting_and_using.md</a>
+<a href="https://github.com/vizicist/palette/blob/main/doc/starting_and_using.md">https://github.com/vizicist/palette/blob/main/doc/starting_and_using.md</a>
