@@ -41,6 +41,9 @@ In addition to 4 Morphs, you need the wood pieces, 2 USB hubs, the 10.1" touchsc
 
 <h2>Building a complete and standalone Space Palette Pro</h2>
 <p>
+NOTE: If you plan on building a complete standalone Space Palette Pro, please send email to me@timthompson.com before starting,
+since there have been major changes to the design of the base.
+<p>
 Here are the instructions for <a href="doc/building.md">building a complete and standalone Space Palette Pro</a> from scratch.
 The cost of all the <a href="doc/parts.pdf">raw materials</a> for an uncompromised and complete instrument
 including the computer is around $8K.

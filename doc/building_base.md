@@ -1,4 +1,8 @@
 <h1>Building the Base of the Space Palette Pro</h1>
+<p>
+NOTE: the base has been redesigned to be more modular, and these instructions are no longer valid.
+Email me@timthompson.com for details about the newer base design.
+<p>
 These are the steps to building the base,
 assuming you've collected all the necessary parts.
 <p><br>
