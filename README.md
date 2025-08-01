@@ -5,20 +5,11 @@
 NOTE: This repo is undergoing a massive rework for a more modular physical arrangement; the single monolithic
 enclosure will be broken up into sections - one "core" section with all the electronics, and the other sections
 will merely be support.  Besides being much easier to transport, it will also allow a desktop configuration.
-The controller and monitor parts will be largely unchanged.  All of the previous files of this repo can be found
-in the pre2025 directory.
+The controller and monitor parts will be largely unchanged.
 <p>
 This repo contains open-source specs allowing you to completely reproduce the Space Palette Pro,
 a visual music instrument on which you play music and graphics simultaneously by finger painting on
 pressure sensitive pads.  Here are some <a href="https://photos.app.goo.gl/1x5BrCuc9yP6Z52XA">photos and videos</a> from a recent event where it was enjoyed.  Here is a <a href="https://youtu.be/HDtxEyCI_zc?t=362">improvised performance</a> using it.
-<p>
-This repo contains documentation for everything you need:
-software, hardware, and specs for 3d-printed parts and CNC-cut wood.
-While this documentation and the Palette software are open source, the Space Palette Pro
-makes use of specific commercial software that you must have in order to run it at all.
-Some people may already have some of that software, but it's unlikely that anyone will
-have all of it, so you'll most likely have to spend some money on software,
-if you want to run a full-fledged Space Palette Pro.
 <p>
 Questions welcome, you can either submit an issue or email me@timthompson.com (aka <a href="https://nosuchtim.com">nosuchtim</a>)
 <p>

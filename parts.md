@@ -63,8 +63,7 @@ wood core
 
 	1/4" birch (shelves):
 		14 x 11"
-		8 x 9"
-        11 1/16 x 3"
+		8 x 8 7/8"
 
 bolts and screws
     4 - 8-32 bolt - 1 3/8"  for attaching fan to panel
