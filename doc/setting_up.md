@@ -68,4 +68,6 @@ This is what the back looks like with everything connected.
 Put the hourglass panel on the front of the base, it attaches with velcro.
 <br><img width=200 src="../images/setting_up/IMG_0914.jpg">
 <hr>
+If you need to adjust the volume of the speakers, that is done with a single big knob on the speaker amp, accessible inside the back panel.  The headphones have volume controls on their cables for individual control.
+<hr>
 <h2>You now have a Space Palette Pro!</h2>
