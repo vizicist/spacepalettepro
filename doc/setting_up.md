@@ -8,30 +8,30 @@ You should have these 5 pieces:
 <hr>
 Here's the core box. Unscrew the thumbscrew, remove the protective panel, and screw the thumbscrew back into the core box.
 <br><img width=200 src="../images/setting_up/IMG_0891.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0892.jpg">
+&nbsp;<img width=200 src="../images/setting_up/IMG_0892.jpg">
 <hr>
-The core box attaches to the base with 4 bolts in the four corners of the box, which match up with four holes in the top of the base.
+The core box attaches to the base with 4 bolts (or thumbscrews) in the four corners of the box, which match up with four holes in the top of the base.
 On the front side of the core box the holes are visible next to the power supply brick.
 On the back side,
 you'll need to unscrew the 2 thumbscrews on the back panel in order to fold the back panel down to get access to the two holes in the corners.
 Getting these bolts in is the most finicky part of the setup, and small hands are an advantage.
 <br><img width=200 src="../images/setting_up/IMG_0894.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0895.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0896.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0897.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0898.jpg">
-<p>
+&nbsp;<img width=200 src="../images/setting_up/IMG_0895.jpg">
+&nbsp;<img width=200 src="../images/setting_up/IMG_0896.jpg">
+&nbsp;<img width=200 src="../images/setting_up/IMG_0897.jpg">
+&nbsp;<img width=200 src="../images/setting_up/IMG_0898.jpg">
+<hr>
 Make sure you have these 2 cables (they are either in the plastic bin, or loose in the core box) before you attach the controller to the core box.  These are the 2 cables that will be connected to the monitor.
 <br><img width=200 src="../images/setting_up/IMG_0901.jpg">
 <hr>
-Identify the 3 cables that are going to connect to the oval controller.
+Identify the 3 cables (one HDMI, two USB C) in the core box that are going to connect to the oval controller.
 <br><img width=200 src="../images/setting_up/IMG_0893.jpg">
 <hr>
 Position the oval controller close to the core so that you can connect the 3 cables from the controller to the core.  There are 2 USB C connections - one is colored pink, make sure that one is plugged into the corresponding pink connector.
 <hr>
-Place the oval controller on the core box, making sure that the 3 cables are tucked insude the core box, and use thumbscrews (2 on each side) to attach the oval controller to the core box.
+After connecting the 3 cables, place the oval controller on the core box, making sure that the 3 cables are tucked insude the core box, and use thumbscrews (2 on each side) to attach the oval controller to the core box.
 <br><img width=200 src="../images/setting_up/IMG_0899.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0900.jpg">
+&nbsp;<img width=200 src="../images/setting_up/IMG_0900.jpg">
 <hr>
 Attach the monitor to the back of the core box with 6 thumbscrews.
 <br><img width=200 src="../images/setting_up/IMG_0902.jpg">
@@ -41,11 +41,11 @@ Connect the monitor to the back panel of the core box with 2 cables, one HDMI an
 <hr>
 Slide the headphone hooks onto the matching plastic thing on the back side of the oval controller.
 <br><img width=200 src="../images/setting_up/IMG_0904.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0905.jpg">
+&nbsp;<img width=200 src="../images/setting_up/IMG_0905.jpg">
 <hr>
 Attach the speakers to the back, using (unscrewing/screwing) the thumbscrews that you've already used for the monitor.
 <br><img width=200 src="../images/setting_up/IMG_0906.jpg">
-<br><img width=200 src="../images/setting_up/IMG_0907.jpg">
+&nbsp;<img width=200 src="../images/setting_up/IMG_0907.jpg">
 <hr>
 Plug the banana plugs of the speakers into the jacks on the back panel.
 <br><img width=200 src="../images/setting_up/IMG_0908.jpg">
