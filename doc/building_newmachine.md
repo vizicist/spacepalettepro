@@ -39,11 +39,29 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace.
 <li>cd %USERPROFILE%\Github, gh repo clone vizicist/spacepalettepro
 <li>Install release/palette_win_setup_{latest}
 <li>Install release/palette_data_default_{latest}
+<li>In your Environment Variables:
+- Add %USERPROFILE%\Github\palette\scripts to your PATH
+- Add C:\Program Files\Git\bin to your PATH
+- Add C:\Program Files\Git\usr\bin to your PATH
+- Add %USERPROFILE%\mingw64\bin to your PATH (adjust path if installed elsewhere)
+- Add the following new environment variables:
+```
+ PALETTE=C:\Program Files\Palette
+ PALETTE_SOURCE=%USERPROFILE%\Github\palette
+```
+<li>Install mingw64 to get the gcc compiler.
+The last time I installed it from https://github.com/niXman/mingw-builds-binaries, and it may be necessary to download
+the "online installer" and execute it from the Explorer, selecting "more info" to allow installation of an unsigned pack
+age.  The options I used are: version 13.0, architecture 64 bit, posix, rev1, ucrt.
+The version of gcc I'm using gives this output from 'gcc --version' -
+gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
+
+<li>Install Python 3.{latest} from python.org (NOT windows store), and add it to PATH
 <li>Install SenselApp0.19.32
 <li>Install vim (create .bat files)
 <li>Install 7zip
 <li>Install Go
-<li>Install Visual Studio Code
+<li>Install Visual Studio Code, install vim and go extensions
 <li>Install Visual Studio Community edition
 <li>Install Resolume 7, license it, Enable OSC input, set Video Plugin dir to c:\Program Files\Palette\ffgl
 <li>In Resolume, open c:\Program Files\Common Files\Palette\data_default\config\PaletteDefault.avc
