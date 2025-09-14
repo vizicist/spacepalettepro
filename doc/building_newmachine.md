@@ -16,6 +16,10 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace.
 
 <li>Set up as a new PC, don't install anything else.
 
+<li>Uninstall OneDrive.
+
+
+
 <li>Download and install Chrome, then sign in as spacepalette@gmail.com.  Let it create a passkey.  Do not turn on sync or anything else.
 
 <li>In Chrome, go to remotedesktop.google.com and seleromet "Access My Computer".  Scroll down and "Set up remote access".  Install the remotedesktop extension in Chrome, and use spacepalette{serialnum} for the computer name.
@@ -29,6 +33,8 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace.
 <li>Use Win-R to run netplwiz.exe, and set it up to automatically log in with spacepalette{serialnum}@outlook.com
 
 <li>Reboot to make sure autologon works.
+<li>In Windows Settings, set System->Power->Power Mode to Best Performance
+<li>In Windows Settings, set System->Power->Screen timeouts to Never
 
 <li>Show filename extensions in Explorer
 <li>Install sharpkeys to remap capslock key.
@@ -57,17 +63,22 @@ The version of gcc I'm using gives this output from 'gcc --version' -
 gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
 
 <li>Install Python 3.{latest} from python.org (NOT windows store), and add it to PATH
+<li>Install InnoSetup
 <li>Install SenselApp0.19.32
 <li>Install vim (create .bat files)
 <li>Install 7zip
 <li>Install Go
+<li>In palette repo, run go mod tidy
 <li>Install Visual Studio Code, install vim and go extensions
 <li>Install Visual Studio Community edition
 <li>Install Resolume 7, license it, Enable OSC input, set Video Plugin dir to c:\Program Files\Palette\ffgl
 <li>In Resolume, open c:\Program Files\Common Files\Palette\data_default\config\PaletteDefault.avc
 <li>Install Drumnet
-<li>Install Plogue BIdule, enable OSC server, set VST path to c:\Program Files\Common Files\VST3
+<li>Install Omnisphere.
+<li>Install Plogue Bidule (version 9784 or later), enable OSC server, set VST path to c:\Program Files\Common Files\VST3
 <li>Install LoopBe, disable shortcut protection, expand to 16 ports
+<li>Run scripts/multitouch_disable.bat
+<li>Run scripts/setup_onboot.bat (as administrator)
 
 <li>Follow the instructions for <a href="building_software.md">building the software</a>.
 </ol>
