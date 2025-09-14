@@ -79,6 +79,12 @@ gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
 <li>Install LoopBe, disable shortcut protection, expand to 16 ports
 <li>Run scripts/multitouch_disable.bat
 <li>Run scripts/setup_onboot.bat (as administrator)
+<li>Install and run bginfo64, set hostname in large font, non-black background
+<li>Right-click on background and disable desktop icons.
+<li>With touchscreen connected, Control Panel->small icons->Tablet PC Settings, Setup, Touch Settings.
+<li>In Display Settings, put touchscreen to left of main screen, and Portrait Flipped.
+<li>cd palette\build\windows ; build & install
+<li>palette setboot global.guisize palette
 
 <li>Follow the instructions for <a href="building_software.md">building the software</a>.
 </ol>
