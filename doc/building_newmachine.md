@@ -1,4 +1,4 @@
-<h1>Building the Software of the Space Palette Pro</h1>
+<h1>Setting up Space Palette Pro on a new computer</h1>
 These steps are designed for taking a new Windows 11 computer and configuring everything from scratch.
 This is specific to the 2024 Asus NUC 970, but should be almost identical for most Windows computers.
 <p>
@@ -12,7 +12,7 @@ This is specific to the 2024 Asus NUC 970, but should be almost identical for mo
 <li>Change computer name to spacepalette{serialnum}.  It will reboot and install updates.
 
 <li>When asked to log in, click on create a new account, and then "Get a new email address".
-Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace.
+Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace!
 
 <li>Set up as a new PC, don't install anything else.
 
@@ -47,15 +47,13 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace.
 <li>Install release/palette_win_setup_{latest}
 <li>Install release/palette_data_default_{latest}
 <li>In your Environment Variables:
-- Add %USERPROFILE%\Github\palette\scripts to your PATH
-- Add C:\Program Files\Git\bin to your PATH
-- Add C:\Program Files\Git\usr\bin to your PATH
-- Add %USERPROFILE%\mingw64\bin to your PATH (adjust path if installed elsewhere)
-- Add the following new environment variables:
-```
- PALETTE=C:\Program Files\Palette
- PALETTE_SOURCE=%USERPROFILE%\Github\palette
-```
+<br>- Add %USERPROFILE%\Github\palette\scripts to your PATH
+<br>- Add C:\Program Files\Git\bin to your PATH
+<br>- Add C:\Program Files\Git\usr\bin to your PATH
+<br>- Add %USERPROFILE%\mingw64\bin to your PATH (adjust path if installed elsewhere)
+<br>- Add the following new environment variables:
+<br>      PALETTE=C:\Program Files\Palette   # palette_win_setup should have already added
+<br>      PALETTE_SOURCE=%USERPROFILE%\Github\palette
 <li>Install mingw64 to get the gcc compiler.
 The last time I installed it from https://github.com/niXman/mingw-builds-binaries, and it may be necessary to download
 the "online installer" and execute it from the Explorer, selecting "more info" to allow installation of an unsigned pack
@@ -86,6 +84,4 @@ gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
 <li>In Display Settings, put touchscreen to left of main screen, and Portrait Flipped.
 <li>cd palette\build\windows ; build & install
 <li>palette setboot global.guisize palette
-
-<li>Follow the instructions for <a href="building_software.md">building the software</a>.
 </ol>
