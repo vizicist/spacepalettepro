@@ -35,15 +35,16 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace.
 <li>Install WSL and Ubuntu
 <li>Install Github Desktop
 <li>Install cli.github.com
+<li>Install Git for Windows
 <li>cd %USERPROFILE%\Github, gh repo clone vizicist/palette
 <li>cd %USERPROFILE%\Github, gh repo clone vizicist/spacepalettepro
 <li>Install release/palette_win_setup_{latest}
 <li>Install release/palette_data_default_{latest}
 <li>Install SenselApp0.19.32
-<li>Install vim (create .bat files)
+<li>Install vim/gvim (create .bat files)
 <li>Install 7zip
 <li>Install Go
-<li>Install Visual Studio Code
+<li>Install Visual Studio Code, add vim and go extensions
 <li>Install Visual Studio Community edition
 <li>Install Resolume 7, license it, Enable OSC input, set Video Plugin dir to c:\Program Files\Palette\ffgl
 <li>In Resolume, open c:\Program Files\Common Files\Palette\data_default\config\PaletteDefault.avc
