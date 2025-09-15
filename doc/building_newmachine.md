@@ -40,6 +40,7 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace.
 <li>Install sharpkeys to remap capslock key.
 <li>Install WSL and Ubuntu
 <li>Install Github Desktop
+<li>Install Git for Windows
 <li>Install cli.github.com
 <li>cd %USERPROFILE%\Github, gh repo clone vizicist/palette
 <li>cd %USERPROFILE%\Github, gh repo clone vizicist/spacepalettepro
