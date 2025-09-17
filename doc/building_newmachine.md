@@ -35,6 +35,7 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace!
 <li>Reboot to make sure autologon works.
 <li>In Windows Settings, set System->Power->Power Mode to Best Performance
 <li>In Windows Settings, set System->Power->Screen timeouts to Never
+<li>Increase mouse pointer size
 
 <li>Show filename extensions in Explorer
 <li>Install sharpkeys to remap capslock key.
