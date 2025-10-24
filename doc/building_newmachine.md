@@ -28,7 +28,7 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace!
 
 <li>Download and install Windows updates.
 
-<li>In Windows->Settings->Accounts->Sign-in options, under "Additional settings" turn off "...only allow Windows Hello..."
+<li>In Windows->Settings->Accounts->Sign-in options, under "Additional settings" turn off "...only allow Windows Hello...", and set "If you've been away, when should Windows..." to "Never"
 
 <li>Use Win-R to run netplwiz.exe, and set it up to automatically log in with spacepalette{serialnum}@outlook.com
 
@@ -36,17 +36,23 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace!
 <li>In Windows Settings, set System->Power->Power Mode to Best Performance
 <li>In Windows Settings, set System->Power->Screen timeouts to Never
 <li>Increase mouse pointer size
+<li>Right-click on desktop and don't show desktop icons.
+<li>Set display background to solid color.
 
 <li>Show filename extensions in Explorer
+<li>Copy T:\tjt\media\spacepalettepro\palette_installers to Downloads
+<li>Execute bginfo64.exe and load palette.bgi
 <li>Install sharpkeys to remap capslock key.
-<li>Install WSL and Ubuntu
+<li>Install WSL and Ubuntu, set root to same password as Windows login
 <li>Install Github Desktop
 <li>Install Git for Windows
-<li>Install cli.github.com
+<li>Install github (gh) CLI, i.e. gh_*.msi
+<li>mkdir %USERPROFILE%\Github
+<li>execute "gh auth login"
 <li>cd %USERPROFILE%\Github, gh repo clone vizicist/palette
 <li>cd %USERPROFILE%\Github, gh repo clone vizicist/spacepalettepro
-<li>Install release/palette_win_setup_{latest}
-<li>Install release/palette_data_default_{latest}
+<li>Install release/palette_{release}_win_setup.exe
+<li>Install release/palette_{release}_data_default.exe
 <li>In your Environment Variables:
 <br>- Add %USERPROFILE%\Github\palette\scripts to your PATH
 <br>- Add C:\Program Files\Git\bin to your PATH
@@ -58,31 +64,32 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace!
 <li>Install mingw64 to get the gcc compiler.
 The last time I installed it from https://github.com/niXman/mingw-builds-binaries, and it may be necessary to download
 the "online installer" and execute it from the Explorer, selecting "more info" to allow installation of an unsigned pack
-age.  The options I used are: version 13.0, architecture 64 bit, posix, rev1, ucrt.
+age.  The options I used are: version 13.2.0, architecture 64 bit, thread model posix, rev1, ucrt.
 The version of gcc I'm using gives this output from 'gcc --version' -
 gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
 
-<li>Install Python 3.{latest} from python.org (NOT windows store), and add it to PATH
+<li>Install Python 3.{latest} from python.org (NOT windows store), and add it to PATH, and disable PATH limit
 <li>Install InnoSetup
 <li>Install SenselApp0.19.32
-<li>Install vim (create .bat files)
+<li>Install gvim (create .bat files)
 <li>Install 7zip
 <li>Install Go
 <li>In palette repo, run go mod tidy
-<li>Install Visual Studio Code, install vim and go extensions
-<li>Install Visual Studio Community edition
+<li>Install Visual Studio Code, install vim and go extensions, update to latest
+<li>Some of the installers (e.g. Visual Studio) seem to require a real HDMI to be plugged in
+<li>Install Visual Studio Community edition, selecting "Desktop development with C++"
 <li>Install Resolume 7, license it, Enable OSC input, set Video Plugin dir to c:\Program Files\Palette\ffgl
 <li>In Resolume, open c:\Program Files\Common Files\Palette\data_default\config\PaletteDefault.avc
+<li>Create c:\Program Files\Common Files\VST2 and VST3
 <li>Install Drumnet
-<li>Install Omnisphere.
+<li>Install Omnisphere and license it with spacepalette{serialnum}@outlook.com
 <li>Install Plogue Bidule (version 9784 or later), enable OSC server, set VST path to c:\Program Files\Common Files\VST3
 <li>Install LoopBe, disable shortcut protection, expand to 16 ports
 <li>Run scripts/multitouch_disable.bat
 <li>Run scripts/setup_onboot.bat (as administrator)
-<li>Install and run bginfo64, set hostname in large font, non-black background
-<li>Right-click on background and disable desktop icons.
 <li>With touchscreen connected, Control Panel->small icons->Tablet PC Settings, Setup, Touch Settings.
 <li>In Display Settings, put touchscreen to left of main screen, and Portrait Flipped.
 <li>cd palette\build\windows ; build & install
 <li>palette setboot global.guisize palette
+<li>Forward email from spacepalette{serialnum}@outlook.com to me@timthompson.com
 </ol>
