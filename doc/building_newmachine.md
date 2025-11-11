@@ -18,7 +18,7 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace!
 
 <li>Uninstall OneDrive.
 
-
+<li>Forward email from spacepalette{serialnum}@outlook.com to me@timthompson.com
 
 <li>Download and install Chrome, then sign in as spacepalette@gmail.com.  Let it create a passkey.  Do not turn on sync or anything else.
 
@@ -83,7 +83,7 @@ gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
 <li>Create c:\Program Files\Common Files\VST2 and VST3
 <li>Install Drumnet
 <li>Install Omnisphere and license it with spacepalette{serialnum}@outlook.com
-<li>Install Plogue Bidule (version 9784 or later), enable OSC server, set VST path to c:\Program Files\Common Files\VST3
+<li>Install Plogue Bidule (version 9784 or later), enable OSC server
 <li>Install LoopBe, disable shortcut protection, expand to 16 ports
 <li>Run scripts/multitouch_disable.bat
 <li>Run scripts/setup_onboot.bat (as administrator)
@@ -91,5 +91,4 @@ gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
 <li>In Display Settings, put touchscreen to left of main screen, and Portrait Flipped.
 <li>cd palette\build\windows ; build & install
 <li>palette setboot global.guisize palette
-<li>Forward email from spacepalette{serialnum}@outlook.com to me@timthompson.com
 </ol>
