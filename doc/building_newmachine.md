@@ -59,7 +59,8 @@ Use spacepalette{serialnum}@outlook.com / ThereIsNoPalette{serialnum}InSpace!
 <br>- Add C:\Program Files\Git\usr\bin to your PATH
 <br>- Add %USERPROFILE%\mingw64\bin to your PATH (adjust path if installed elsewhere)
 <br>- Add the following new environment variables:
-<br>      PALETTE=C:\Program Files\Palette   # palette_win_setup should have already added
+<br>      PALETTE=%LOCALAPPDATA%\Programs\Palette   # palette_win_setup should have already added
+<br>      PALETTE_DATAROOT=%LOCALAPPDATA%\Palette   # palette_win_setup should have already added
 <br>      PALETTE_SOURCE=%USERPROFILE%\Github\palette
 <li>Install mingw64 to get the gcc compiler.
 The last time I installed it from https://github.com/niXman/mingw-builds-binaries, and it may be necessary to download
@@ -78,8 +79,8 @@ gcc (x86_64-win32-seh-rev1, Built by MinGW-Builds project) 14.2.0
 <li>Install Visual Studio Code, install vim and go extensions, update to latest
 <li>Some of the installers (e.g. Visual Studio) seem to require a real HDMI to be plugged in
 <li>Install Visual Studio Community edition, selecting "Desktop development with C++"
-<li>Install Resolume 7, license it, Enable OSC input, set Video Plugin dir to c:\Program Files\Palette\ffgl
-<li>In Resolume, open c:\Program Files\Common Files\Palette\data_default\config\PaletteDefault.avc
+<li>Install Resolume 7, license it, Enable OSC input, set Video Plugin dir to %LOCALAPPDATA%\Programs\Palette\ffgl
+<li>In Resolume, open %LOCALAPPDATA%\Palette\data_default\config\PaletteDefault.avc
 <li>Create c:\Program Files\Common Files\VST2 and VST3
 <li>Install Drumnet
 <li>Install Omnisphere and license it with spacepalette{serialnum}@outlook.com
